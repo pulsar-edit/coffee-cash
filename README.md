@@ -1,3 +1,5 @@
+# This Repo is archived under Pulsar-Edit since it is not used.
+
 # Coffee Cash [![Build Status](https://travis-ci.org/atom/coffee-cash.svg?branch=master)](https://travis-ci.org/atom/coffee-cash)
 
 Simple CoffeeScript caching based on a SHA-1 of the contents.
